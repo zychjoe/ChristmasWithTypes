@@ -10,7 +10,7 @@ namespace ChristmasWithTypes
 
             var xmasDay = Christmas.Day.Thursday;
 
-            xmas.Santa = Kris Kringle;
+            xmas.Santa = "Kris Kringle";
 
             xmas.Presents =  new string[3]{ "PS5", "New Car", "Candy Canes"};
 

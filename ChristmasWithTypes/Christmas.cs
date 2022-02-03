@@ -7,7 +7,7 @@ namespace ChristmasWithTypes
         public string Santa { get; set; }
         public int? TreeHeight { get; set; }
 
-        public enum Day { Sun, Mon, Tues, Wed, Thu, Fri, Sat };
+        public enum Day { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday };
 
     }
 }
